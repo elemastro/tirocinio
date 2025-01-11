@@ -158,7 +158,7 @@ Author: Eleonora Mastroianni -->
     </teiHeader>
     <facsimile>
         <surface xml:id="pg_165" start="#pb_165">
-            <graphic url='1.jpg' width='3072.4px' height='4080.4px' />
+            <graphic url='immagini/1.jpg' width='3072.4px' height='4080.4px' />
             <zone ulx="459" uly="634" lrx="2486" lry="725" xml:id="z_1" start="#lb_1"/>
             <zone ulx="465" uly="715" lrx="2485" lry="806" xml:id="z_2" start="#lb_2"/>
             <zone ulx="450" uly="953" lrx="547" lry="1019" xml:id="z_3" start="#lb_3"/>
@@ -193,7 +193,7 @@ Author: Eleonora Mastroianni -->
         </surface>
 
         <surface xml:id="pg_166" start="#pb_166">
-            <graphic url='2.jpg' width='3072.4px' height='4080.4px' />
+            <graphic url='immagini/2.jpg' width='3072.4px' height='4080.4px' />
             <zone points = ' 702,524 1130,458 1493,407 1785,363 1988,359 1984,406 1780,419 1497,461 1135,514 704,574 ' xml:id="z_33" start="#lb_33"/>
             <zone points = ' 700,654 700,707 1055,678 1576,599 1916,572 2247,571 2523,607 2547,594 2532,537 2241,490 1912,500 1570,534 1047,609 ' xml:id="z_34" start="#lb_34"/>
             <zone points = ' 698,723 859,705 863,756 699,779 ' xml:id="z_35" start="#lb_35"/>
@@ -243,7 +243,7 @@ Author: Eleonora Mastroianni -->
         </surface>
 
         <surface xml:id="pg_167" start="#pb_167">
-            <graphic url='3.jpg' width='3072.4px' height='4080.4px' />
+            <graphic url='immagini/3.jpg' width='3072.4px' height='4080.4px' />
             <zone points = ' 891,390 2475,338 2483,403 889,439 ' xml:id="z_79" start="#lb_79"/>
             <zone points = ' 523,551 839,519 2079,503 2473,488 2483,563 2075,579 1343,604 823,602 530,618 ' xml:id="z_80" start="#lb_80"/>
             <zone points = ' 529,630 855,613 1287,608 1858,591 2480,577 2483,627 1854,651 1283,663 848,666 531,680 ' xml:id="z_81" start="#lb_81"/>
@@ -295,7 +295,7 @@ Author: Eleonora Mastroianni -->
         </surface>
 
         <surface xml:id="pg_168" start="#pb_168">
-            <graphic url='4.jpg' width='3072.4px' height='4080.4px' />
+            <graphic url='immagini/4.jpg' width='3072.4px' height='4080.4px' />
             <zone points = ' 678,963 983,952 986,1013 680,1027 ' xml:id="z_127" start="#lb_127"/>
             <zone points = ' 684,1100 1219,1069 1707,1036 2013,1018 2436,1038 2590,1059 2591,1119 2427,1107 2003,1086 1699,1099 1218,1135 683,1159 ' xml:id="z_128" start="#lb_128"/>
             <zone points = ' 680,1169 1433,1123 1818,1103 2189,1102 2593,1135 2591,1192 2191,1159 1823,1164 1431,1187 678,1223 ' xml:id="z_129" start="#lb_129"/>
@@ -337,7 +337,7 @@ Author: Eleonora Mastroianni -->
         </surface>
 
         <surface xml:id="pg_169" start="#pb_169">
-            <graphic url='5.jpg' width='3072.4px' height='4080.4px' />
+            <graphic url='immagini/5.jpg' width='3072.4px' height='4080.4px' />
             <zone points = ' 823,389 2475,349 2479,404 824,434 ' xml:id="z_165" start="#lb_165"/>
             <zone points = ' 447,544 1639,520 2479,515 2480,564 1640,591 448,607 ' xml:id="z_166" start="#lb_166"/>
             <zone points = ' 446,615 1417,599 2479,582 2480,641 1400,664 447,679 ' xml:id="z_167" start="#lb_167"/>
@@ -386,7 +386,7 @@ Author: Eleonora Mastroianni -->
         </surface>
 
         <surface xml:id="pg_170" start="#pb_170">
-            <graphic url='6.jpg' width='3072.4px' height='4080.4px' />
+            <graphic url='immagini/6.jpg' width='3072.4px' height='4080.4px' />
             <zone points = ' 788,487 1693,357 1918,333 2046,328 2047,369 1918,377 1699,396 791,533 ' xml:id="z_210" start="#lb_210"/>
             <zone points = ' 786,624 1606,502 1831,473 2131,463 2279,463 2370,467 2587,506 2592,567 2371,527 2277,526 2132,522 1833,534 1604,563 789,674 ' xml:id="z_211" start="#lb_211"/>
             <zone points = ' 786,681 1831,542 2123,531 2370,534 2592,576 2593,632 2375,595 2113,588 1830,606 786,736 ' xml:id="z_212" start="#lb_212"/>
@@ -434,7 +434,7 @@ Author: Eleonora Mastroianni -->
         </surface>
 
         <surface xml:id="pg_171" start="#pb_171">
-            <graphic url='7.jpg' width='3072.4px' height='4080.4px' />
+            <graphic url='immagini/7.jpg' width='3072.4px' height='4080.4px' />
             <zone points = ' 930,237 1803,287 2507,312 2511,370 1789,338 923,295 ' xml:id="z_254" start="#lb_254"/>
             <zone points = ' 570,446 929,396 1588,421 2111,450 2513,468 2516,520 2110,510 1586,482 927,455 575,495 ' xml:id="z_255" start="#lb_255"/>
             <zone points = ' 571,518 868,467 960,464 1786,507 2511,536 2513,587 1783,561 954,522 873,525 573,565 ' xml:id="z_256" start="#lb_256"/>
@@ -490,7 +490,7 @@ Author: Eleonora Mastroianni -->
         </surface>
 
         <surface xml:id="pg_172" start="#pb_172">
-            <graphic url='8.jpg' width='3072.4px' height='4080.4px' />
+            <graphic url='immagini/8.jpg' width='3072.4px' height='4080.4px' />
             <zone points = ' 804,512 1889,351 2078,347 2074,390 1868,403 807,560 ' xml:id="z_306" start="#lb_306"/>
             <zone points = ' 793,647 1928,494 2241,485 2625,534 2626,595 2241,547 1927,555 798,702 ' xml:id="z_307" start="#lb_307"/>
             <zone points = ' 796,711 1374,635 1375,689 802,763 ' xml:id="z_308" start="#lb_308"/>
@@ -537,7 +537,7 @@ Author: Eleonora Mastroianni -->
         </surface>
 
         <surface xml:id="pg_173" start="#pb_173">
-            <graphic url='9.jpg' width='3072.4px' height='4080.4px'/>
+            <graphic url='immagini/9.jpg' width='3072.4px' height='4080.4px'/>
             <zone points = ' 732,202 2419,217 2423,278 728,259 ' xml:id="z_349" start="#lb_349"/>
             <zone points = ' 371,401 941,349 1431,371 2427,389 2424,434 1430,435 938,423 659,426 379,469 ' xml:id="z_350" start="#lb_350"/>
             <zone points = ' 372,492 759,441 2430,457 2422,518 761,504 600,506 378,540 ' xml:id="z_351" start="#lb_351"/>
@@ -592,7 +592,7 @@ Author: Eleonora Mastroianni -->
         </surface>
 
         <surface xml:id="pg_174" start="#pb_174">
-            <graphic url='10.jpg' width='3072.4px' height='4080.4px' />
+            <graphic url='immagini/10.jpg' width='3072.4px' height='4080.4px' />
             <zone points = ' 720,362 1700,216 1902,189 2078,177 2078,223 1902,233 1699,256 726,413 ' xml:id="z_400" start="#lb_400"/>
             <zone points = ' 719,510 1651,371 1907,338 2009,331 2285,319 2680,365 2681,425 2283,385 1998,395 1906,403 1647,433 722,563 ' xml:id="z_401" start="#lb_401"/>
             <zone points = ' 719,575 1864,419 1982,407 2286,398 2685,442 2679,495 2283,463 1981,471 1861,483 728,634 ' xml:id="z_402" start="#lb_402"/>
@@ -649,7 +649,7 @@ Author: Eleonora Mastroianni -->
         </surface>
 
         <surface xml:id="pg_175" start="#pb_175">
-            <graphic url='11.jpg' width='3072.4px' height='4080.4px' />
+            <graphic url='immagini/11.jpg' width='3072.4px' height='4080.4px' />
             <zone points = ' 781,246 2389,256 2382,316 782,300 ' xml:id="z_453" start="#lb_453"/>
             <zone points = ' 440,451 763,389 1666,398 2394,407 2391,468 1658,459 899,451 651,467 445,508 ' xml:id="z_454" start="#lb_454"/>
             <zone points = ' 443,531 768,466 2270,474 2269,541 1135,525 762,528 594,547 450,579 ' xml:id="z_455" start="#lb_455"/>
@@ -703,7 +703,7 @@ Author: Eleonora Mastroianni -->
         </surface>
 
         <surface xml:id="pg_176" start="#pb_176">
-            <graphic url='12.jpg' width='3072.4px' height='4080.4px' />
+            <graphic url='immagini/12.jpg' width='3072.4px' height='4080.4px' />
             <zone points = ' 581,334 1719,158 1961,153 1951,206 1717,221 593,390 ' xml:id="z_503" start="#lb_503"/>
             <zone points = ' 584,480 1742,319 2164,306 2563,352 2554,419 2346,387 2165,371 1744,382 588,540 ' xml:id="z_504" start="#lb_504"/>
             <zone points = ' 585,553 1647,402 2296,388 2569,434 2563,490 2299,455 2031,442 1651,465 586,611 ' xml:id="z_505" start="#lb_505"/>
@@ -760,14 +760,14 @@ Author: Eleonora Mastroianni -->
         </surface>
 
         <surface xml:id="pg_176.5" start="#pb_176.5">
-            <graphic url='13.jpg' width='3072.4px' height='4080.4px' />
+            <graphic url='immagini/13.jpg' width='3072.4px' height='4080.4px' />
             <zone points = ' 475,248 801,215 2407,291 2548,3719 407,3715 469,258 ' xml:id="foto_13" start="#foto_pg13"/>
             <zone points = ' 493,3777 1724,3769 2440,3785 2431,3844 2044,3830 1664,3825 962,3840 492,3836 ' xml:id="z_556" start="#lb_556"/>
             <zone points = ' 935,3847 1475,3835 1974,3837 1973,3892 1476,3891 939,3900 ' xml:id="z_557" start="#lb_557"/>
         </surface>
 
         <surface xml:id="pg_177" start="#pb_177">
-            <graphic url='14.jpg' width='3072.4px' height='4080.4px' />
+            <graphic url='immagini/14.jpg' width='3072.4px' height='4080.4px' />
             <zone points = ' 847,322 1567,364 2450,378 2441,437 1565,406 844,374 ' xml:id="z_558" start="#lb_558"/>
             <zone points = ' 469,499 760,475 1720,514 2452,527 2447,591 1717,577 803,540 470,562 ' xml:id="z_559" start="#lb_559"/>
             <zone points = ' 473,570 863,548 1674,587 2450,602 2447,662 1666,647 859,614 472,636 ' xml:id="z_560" start="#lb_560"/>
@@ -816,7 +816,7 @@ Author: Eleonora Mastroianni -->
         </surface>
 
         <surface xml:id="pg_178" start="#pb_178">
-            <graphic url='15.jpg' width='3072.4px' height='4080.4px' />
+            <graphic url='immagini/15.jpg' width='3072.4px' height='4080.4px' />
             <zone points = ' 771,431 2085,347 2082,399 777,486 ' xml:id="z_603" start="#lb_603"/>
             <zone points = ' 764,574 2318,486 2699,487 2691,549 2315,551 1404,611 767,633 ' xml:id="z_604" start="#lb_604"/>
             <zone points = ' 765,645 1547,611 2293,559 2694,559 2686,618 2295,620 1547,669 1094,690 770,698 ' xml:id="z_605" start="#lb_605"/>
@@ -867,7 +867,7 @@ Author: Eleonora Mastroianni -->
         </surface>
 
         <surface xml:id="pg_179" start="#pb_179">
-            <graphic url='16.jpg' width='3072.4px' height='4080.4px' />
+            <graphic url='immagini/16.jpg' width='3072.4px' height='4080.4px' />
             <zone points = ' 893,269 2488,242 2484,301 1758,326 896,321 ' xml:id="z_650" start="#lb_650"/>
             <zone points = ' 539,433 711,417 2491,394 2486,455 1833,479 1203,481 859,478 542,495 ' xml:id="z_651" start="#lb_651"/>
             <zone points = ' 535,515 905,487 2494,463 2490,527 1955,551 1039,542 541,567 ' xml:id="z_652" start="#lb_652"/>
@@ -922,7 +922,7 @@ Author: Eleonora Mastroianni -->
         </surface>
 
         <surface xml:id="pg_180" start="#pb_180">
-            <graphic url='17.jpg' width='3072.4px' height='4080.4px' />
+            <graphic url='immagini/17.jpg' width='3072.4px' height='4080.4px' />
             <zone points = ' 731,379 2080,322 2070,380 731,438 ' xml:id="z_701" start="#lb_701"/>
             <zone points = ' 813,523 2195,463 2683,471 2678,541 2200,534 1334,576 816,586 ' xml:id="z_702" start="#lb_702"/>
             <zone points = ' 721,598 1296,587 1944,552 2379,543 2685,552 2681,607 2284,603 1934,611 1293,640 732,655 ' xml:id="z_703" start="#lb_703"/>
@@ -971,7 +971,7 @@ Author: Eleonora Mastroianni -->
         </surface>
 
         <surface xml:id="pg_181" start="#pb_181">
-            <graphic url='18.jpg' width='3072.4px' height='4080.4px' />
+            <graphic url='immagini/18.jpg' width='3072.4px' height='4080.4px' />
             <zone points = ' 783,274 2361,267 2361,330 778,333 ' xml:id="z_746" start="#lb_746"/>
             <zone points = ' 422,451 573,423 2368,419 2367,479 1618,500 684,479 438,502 ' xml:id="z_747" start="#lb_747"/>
             <zone points = ' 421,512 631,491 1374,501 2161,499 2365,487 2368,550 1829,560 912,550 428,567 ' xml:id="z_748" start="#lb_748"/>
@@ -1019,7 +1019,7 @@ Author: Eleonora Mastroianni -->
         </surface>
 
         <surface xml:id="pg_182" start="#pb_182">
-            <graphic url='19.jpg' width='3072.4px' height='4080.4px' />
+            <graphic url='immagini/19.jpg' width='3072.4px' height='4080.4px' />
             <zone points = ' 670,498 1578,328 1807,302 1957,298 1947,350 1731,352 678,547 ' xml:id="z_790" start="#lb_790"/>
             <zone points = ' 667,643 1672,459 1857,450 2093,451 2281,470 2495,512 2492,578 2279,527 2085,507 1845,509 1673,519 673,689 ' xml:id="z_791" start="#lb_791"/>
             <zone points = ' 667,700 1650,531 2106,520 2352,551 2500,590 2493,640 2348,607 2103,579 1650,597 674,753 ' xml:id="z_792" start="#lb_792"/>
@@ -1067,7 +1067,7 @@ Author: Eleonora Mastroianni -->
         </surface>
 
         <surface xml:id="pg_183" start="#pb_183">
-            <graphic url='20.jpg' width='3072.4px' height='4080.4px' />
+            <graphic url='immagini/20.jpg' width='3072.4px' height='4080.4px' />
             <zone points = ' 763,200 2429,246 2425,317 766,263 ' xml:id="z_834" start="#lb_834"/>
             <zone points = ' 393,412 582,367 798,362 1793,398 2429,416 2426,471 2102,467 875,423 578,429 394,463 ' xml:id="z_835" start="#lb_835"/>
             <zone points = ' 395,470 589,435 1055,433 2422,477 2423,530 1961,523 1053,491 593,488 397,517 ' xml:id="z_836" start="#lb_836"/>
@@ -1090,7 +1090,7 @@ Author: Eleonora Mastroianni -->
         </surface>
 
         <surface xml:id="pg_184" start="#pb_184">
-            <graphic url='21.jpg' width='3072.4px' height='4080.4px' />
+            <graphic url='immagini/21.jpg' width='3072.4px' height='4080.4px' />
             <zone points = ' 1425,573 2060,523 2055,608 1430,639 ' xml:id="z_853" start="#lb_853"/>
             <zone points = ' 1065,723 1885,634 2443,667 2437,739 1883,706 1071,786 ' xml:id="z_854" start="#lb_854"/>
             <zone points = ' 709,854 1880,728 2341,753 2739,842 2738,929 2336,834 1872,816 715,926 ' xml:id="z_855" start="#lb_855"/>
@@ -1128,7 +1128,7 @@ Author: Eleonora Mastroianni -->
         </surface>
 
         <surface xml:id="pg_185" start="#pb_185">
-            <graphic url='22.jpg' width='3072.4px' height='4080.4px' />
+            <graphic url='immagini/22.jpg' width='3072.4px' height='4080.4px' />
             <zone points = ' 882,258 2443,283 2440,358 882,314 ' xml:id="z_887" start="#lb_887"/>
             <zone points = ' 522,428 964,403 1447,421 2445,429 2444,494 2026,491 1448,482 940,464 723,465 528,487 ' xml:id="z_888" start="#lb_888"/>
             <zone points = ' 524,502 762,478 1667,495 2434,507 2436,565 1667,559 821,530 531,555 ' xml:id="z_889" start="#lb_889"/>
@@ -1188,7 +1188,7 @@ Author: Eleonora Mastroianni -->
         </surface>
 
         <surface xml:id="pg_186" start="#pb_186">
-            <graphic url='23.jpg' width='3072.4px' height='4080.4px' />
+            <graphic url='immagini/23.jpg' width='3072.4px' height='4080.4px' />
             <zone points = ' 767,380 1809,199 2038,191 2037,236 1806,246 767,428 ' xml:id="z_942" start="#lb_942"/>
             <zone points = ' 760,506 1755,342 2086,326 2291,334 2600,395 2596,460 2288,397 2087,386 1963,387 1754,404 763,565 ' xml:id="z_943" start="#lb_943"/>
             <zone points = ' 756,574 1768,413 2028,397 2250,403 2595,466 2598,521 2239,462 1886,464 759,627 ' xml:id="z_944" start="#lb_944"/>
@@ -1236,7 +1236,7 @@ Author: Eleonora Mastroianni -->
         </surface>
 
         <surface xml:id="pg_187" start="#pb_187">
-            <graphic url='24.jpg' width='3072.4px' height='4080.4px' />
+            <graphic url='immagini/24.jpg' width='3072.4px' height='4080.4px' />
             <zone points = ' 806,333 2372,361 2359,413 804,387 ' xml:id="z_986" start="#lb_986"/>
             <zone points = ' 537,504 779,478 2375,499 2376,563 949,539 767,539 543,563 ' xml:id="z_987" start="#lb_987"/>
             <zone points = ' 460,595 772,550 2370,576 2373,632 1965,632 1396,623 850,604 469,650 ' xml:id="z_988" start="#lb_988"/>
